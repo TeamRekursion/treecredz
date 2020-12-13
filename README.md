@@ -14,7 +14,7 @@ You can also find the APKs attached in the release section
 [Presentation](https://docs.google.com/presentation/d/1kJAYrzEVvTLgkt_rVC-dldIHNVTJ4bvGvfsyZP2NecE/edit?usp=sharing)
 
 ## Link to videos
-[Demo (YouTube)](https://youtu.be/SLFB-rY6AvY)
+[Demo (YouTube)](https://youtu.be/ogJH8bNf0u4)
 <br>
 
 ## Our Solution
